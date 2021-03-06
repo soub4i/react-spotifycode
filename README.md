@@ -1,6 +1,12 @@
 # @soubai/react-spotifycode
 
-> React library for Spotify codes
+<p align="center">
+<img alt="spotify:user:spotify:playlist:37i9dQZF1DXcBWIGoYBM5M" src="https://scannables.scdn.co/uri/plain/jpeg/BAED54/black/640/spotify:user:spotify:playlist:37i9dQZF1DXcBWIGoYBM5M">
+</p>
+
+React library for Spotify codes
+
+>Spotify Code is a QR-like “scannable” tag that can be used to quickly share or access a piece of content within Spotify
 
 [![NPM](https://img.shields.io/npm/v/@soubai/react-spotifycode.svg)](https://www.npmjs.com/package/@soubai/react-spotifycode) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
