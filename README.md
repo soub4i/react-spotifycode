@@ -36,6 +36,24 @@ The component accept a few props:
 - **backgroundColor**: The background color - **default** : '000' - **example** : '000' or '000000' for #000 color
 - **size**: The image size on pixel - **default** : 640
 
+## Development
+
+Local development is broken into two parts (ideally using two tabs).
+
+First, run rollup to watch your `src/` module and automatically recompile it into `dist/` whenever you make changes.
+
+```bash
+npm start # runs rollup with watch flag
+```
+
+The second part will be running the `example/` create-react-app that's linked to the local version of your module.
+
+```bash
+# (in another tab)
+cd example
+npm start # runs create-react-app dev server
+```
+
 ## License
 
 MIT © [AbderrahimSoubaiElidrissi](https://github.com/AbderrahimSoubaiElidrissi)
